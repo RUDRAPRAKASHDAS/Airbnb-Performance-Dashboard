@@ -1,11 +1,9 @@
-╔══════════════════════════════════════════════════════════════════════════╗
-║                 AIRBNB PERFORMANCE DASHBOARD                         ║
-╚══════════════════════════════════════════════════════════════════════════╝
+AIRBNB PERFORMANCE DASHBOARD                    
 
 📦 Airbnb-dashboard/
 │
 ├── 📄 README.md (9.7 KB, 319 lines)
-│   └─ Comprehensive project overview
+│    Comprehensive project overview
 │      ├─ Project description and key features
 │      ├─ Dashboard components breakdown
 │      ├─ Usage instructions and getting started
@@ -168,8 +166,6 @@
 
 ═════════════════════════════════════════════════════════════════════════════
 
-🚀 READY FOR GITHUB!
-
 This repository is production-ready with:
 ✅ Comprehensive documentation
 ✅ Clear contribution guidelines
@@ -183,4 +179,4 @@ This repository is production-ready with:
 
 ═════════════════════════════════════════════════════════════════════════════
 
-📝 Status: Ready for GitHub Upload
+
